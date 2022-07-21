@@ -1,6 +1,6 @@
 baseURL = "https://rohan.sacheti.co/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
