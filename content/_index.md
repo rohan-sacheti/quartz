@@ -1,26 +1,15 @@
 ---
-title: 🪴 Quartz 3.2
+title: "Rohan Sacheti"
 ---
+![Example Image](/notes/images/home.png)
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Welcome to my digital history. Here you can learn a little bit about me, read my thoughts and <ins>maybe</ins> understand where I'm coming from.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+The purpose of this website is not only for me to document my thoughts but also create an archive for the evolution of my thoughts. I have always been a believer of holding strong opinions loosely, so strap in and see how far I've come.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+- [Work](notes/work.md)
+* [Start up musings](startups)
+- [Books](notes/books)
+* [Finance](tests)
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+Let's hope you found something useful during your time here. If not, let's at least hope you have something to show your friends and laugh about.
