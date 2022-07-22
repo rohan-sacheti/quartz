@@ -9,7 +9,7 @@ The purpose of this website is not only for me to document my thoughts but also 
 
 - [Work](notes/work.md)
 * [Start up musings](startups)
-- [Books](notes/books)
+- [Books](notes/books/)
 * [Finance](tests)
 
 Let's hope you found something useful during your time here. If not, let's at least hope you have something to show your friends and laugh about.
